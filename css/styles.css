@@ -1,17 +1,9 @@
-h2.intro {
-  text-align: center;
-  font-family: sans-serif;
-}
+.intro{
+text-align: center;
+font-weight: bolder;
+font-style: italic;
 
-p.intro {
-  font-weight:bold;
-  font-style:italic;
 }
-
-img.intro {
-  text-align: center;
-}
-
 p {
   font-family: sans-serif;
 }
